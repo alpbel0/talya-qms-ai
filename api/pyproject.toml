@@ -1,0 +1,18 @@
+[project]
+name = "talya-qms-api"
+version = "0.0.1"
+description = "Talya QMS-AI API iskeleti (uygulama mantığı henüz yok)"
+requires-python = ">=3.11,<3.12"
+# Bağımlılıklar requirements.txt / requirements-dev.txt içinde sabitlenmiştir.
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["."]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "SIM"]

@@ -1,0 +1,15 @@
+:root {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  color: #1f2937;
+  background: #f8fafc;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+.layout { display: flex; min-height: 100vh; }
+.sidebar { width: 240px; background: #0f172a; color: #e2e8f0; padding: 1rem 0; flex-shrink: 0; }
+.sidebar .brand { font-weight: 700; padding: 0 1.25rem 1rem; font-size: 1.1rem; }
+.sidebar ul { list-style: none; margin: 0; padding: 0; }
+.sidebar a { display: block; padding: 0.6rem 1.25rem; color: inherit; text-decoration: none; }
+.sidebar a:hover { background: #1e293b; }
+.sidebar a.active { background: #1d4ed8; color: #fff; }
+.content { flex: 1; padding: 2rem; }

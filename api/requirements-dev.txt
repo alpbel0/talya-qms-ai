@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest==9.1.1
+# httpx2: httpx'in Pydantic tarafından sürdürülen devamı (github.com/pydantic/httpx2; yazar
+# Tom Christie, ilk yayın 2026-05-11). Starlette TestClient httpx yerine bunu bekler.
+httpx2==2.16.0
+ruff==0.17.2
