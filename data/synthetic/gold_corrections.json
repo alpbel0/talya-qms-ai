@@ -1,0 +1,771 @@
+{
+  "BAKIM-004": {
+    "entities": [
+      {
+        "text": "Yağmur olukları tıkalı",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "teras suyu taştı",
+        "label": "EVENT"
+      },
+      {
+        "text": "su aşağıdaki koridora sızdı",
+        "label": "EVENT"
+      },
+      {
+        "text": "elektrik panosu",
+        "label": "EQUIPMENT"
+      },
+      {
+        "text": "masaj odaları karardı",
+        "label": "EVENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "Yağmur olukları tıkalı",
+        "type": "CAUSES",
+        "tail": "teras suyu taştı"
+      },
+      {
+        "head": "teras suyu taştı",
+        "type": "CAUSES",
+        "tail": "su aşağıdaki koridora sızdı"
+      },
+      {
+        "head": "elektrik panosu",
+        "type": "CAUSES",
+        "tail": "masaj odaları karardı"
+      },
+      {
+        "head": "su aşağıdaki koridora sızdı",
+        "type": "CAUSES",
+        "tail": "masaj odaları karardı"
+      }
+    ],
+    "note": "Zincirde su sızıntısı → pano atması → karartma halkası eksikti."
+  },
+  "BAKIM-006": {
+    "entities": [
+      {
+        "text": "klima",
+        "label": "EQUIPMENT"
+      },
+      {
+        "text": "klima yine bozuldu",
+        "label": "EVENT"
+      },
+      {
+        "text": "misafir bağırdı",
+        "label": "EVENT"
+      },
+      {
+        "text": "filtre hiç temizlenmemiş",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "usta geldi baktı",
+        "label": "ACTION"
+      }
+    ],
+    "relations": [
+      {
+        "head": "filtre hiç temizlenmemiş",
+        "type": "CAUSES",
+        "tail": "klima yine bozuldu"
+      },
+      {
+        "head": "klima yine bozuldu",
+        "type": "CAUSES",
+        "tail": "misafir bağırdı"
+      },
+      {
+        "head": "klima yine bozuldu",
+        "type": "ADDRESSED_BY",
+        "tail": "usta geldi baktı"
+      }
+    ],
+    "note": "Usta müdahalesi ACTION olarak etiketlenmemişti."
+  },
+  "BAKIM-008": {
+    "entities": [
+      {
+        "text": "Chiller",
+        "label": "EQUIPMENT"
+      },
+      {
+        "text": "son temizlik 14 ay önce yapılmış",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "soğutma kapasitesi düştü",
+        "label": "EVENT"
+      },
+      {
+        "text": "lobide sıcaklık 27'yi gördü",
+        "label": "EVENT"
+      },
+      {
+        "text": "kondenser borularında kireç var",
+        "label": "ROOT_CAUSE"
+      }
+    ],
+    "relations": [
+      {
+        "head": "son temizlik 14 ay önce yapılmış",
+        "type": "CAUSES",
+        "tail": "soğutma kapasitesi düştü"
+      },
+      {
+        "head": "soğutma kapasitesi düştü",
+        "type": "CAUSES",
+        "tail": "lobide sıcaklık 27'yi gördü"
+      },
+      {
+        "head": "kondenser borularında kireç var",
+        "type": "CAUSES",
+        "tail": "soğutma kapasitesi düştü"
+      }
+    ],
+    "note": "Asıl kök neden (kondenserde kireç) etiketlenmemişti."
+  },
+  "BAKIM-039": {
+    "entities": [
+      {
+        "text": "AHU",
+        "label": "EQUIPMENT"
+      },
+      {
+        "text": "filtre değişimi gecikti",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "hijyen puanı",
+        "label": "KPI"
+      },
+      {
+        "text": "82'ye geriledi",
+        "label": "EVENT"
+      },
+      {
+        "text": "TS",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "HK",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "DÖF açıldı",
+        "label": "ACTION"
+      }
+    ],
+    "relations": [
+      {
+        "head": "filtre değişimi gecikti",
+        "type": "CAUSES",
+        "tail": "82'ye geriledi"
+      },
+      {
+        "head": "82'ye geriledi",
+        "type": "ADDRESSED_BY",
+        "tail": "DÖF açıldı"
+      },
+      {
+        "head": "82'ye geriledi",
+        "type": "OCCURS_IN",
+        "tail": "HK"
+      }
+    ],
+    "note": "Olayın gerçekleştiği departman (HK'da) bağlanmamıştı."
+  },
+  "BAKIM-066": {
+    "entities": [
+      {
+        "text": "TV başlık yayın sistemi",
+        "label": "EQUIPMENT"
+      },
+      {
+        "text": "güncelleme",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "kanallar gelmedi",
+        "label": "EVENT"
+      },
+      {
+        "text": "Ön Büro",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "kanal listesini kaybetti",
+        "label": "EVENT"
+      },
+      {
+        "text": "telefonlarla boğuştu",
+        "label": "EVENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "güncelleme",
+        "type": "CAUSES",
+        "tail": "kanal listesini kaybetti"
+      },
+      {
+        "head": "kanal listesini kaybetti",
+        "type": "CAUSES",
+        "tail": "kanallar gelmedi"
+      },
+      {
+        "head": "kanallar gelmedi",
+        "type": "CAUSES",
+        "tail": "telefonlarla boğuştu"
+      },
+      {
+        "head": "telefonlarla boğuştu",
+        "type": "OCCURS_IN",
+        "tail": "Ön Büro"
+      }
+    ],
+    "note": "Zincir eksikti; 'kanallar gelmedi' Ön Büro'da değil odalarda oldu, Ön Büro'daki olay telefon yoğunluğu."
+  },
+  "DENETIM-008": {
+    "entities": [
+      {
+        "text": "F&B",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "fire artışı",
+        "label": "EVENT"
+      },
+      {
+        "text": "porsiyon standardı eğitimi eksikliği",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "eğitim verildi",
+        "label": "ACTION"
+      },
+      {
+        "text": "DÖF açıldı",
+        "label": "ACTION"
+      }
+    ],
+    "relations": [
+      {
+        "head": "porsiyon standardı eğitimi eksikliği",
+        "type": "CAUSES",
+        "tail": "fire artışı"
+      },
+      {
+        "head": "porsiyon standardı eğitimi eksikliği",
+        "type": "ADDRESSED_BY",
+        "tail": "eğitim verildi"
+      },
+      {
+        "head": "fire artışı",
+        "type": "OCCURS_IN",
+        "tail": "F&B"
+      },
+      {
+        "head": "porsiyon standardı eğitimi eksikliği",
+        "type": "ADDRESSED_BY",
+        "tail": "DÖF açıldı"
+      }
+    ],
+    "note": "'DÖF açıldı' aksiyonu etiketlenmemişti."
+  },
+  "DENETIM-027": {
+    "entities": [
+      {
+        "text": "Mini Club",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "alerji bilgisi alanı boş bırakılmış",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "fıstıklı ikram yedi",
+        "label": "EVENT"
+      },
+      {
+        "text": "revire götürüldü",
+        "label": "EVENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "alerji bilgisi alanı boş bırakılmış",
+        "type": "CAUSES",
+        "tail": "fıstıklı ikram yedi"
+      },
+      {
+        "head": "fıstıklı ikram yedi",
+        "type": "OCCURS_IN",
+        "tail": "Mini Club"
+      },
+      {
+        "head": "fıstıklı ikram yedi",
+        "type": "CAUSES",
+        "tail": "revire götürüldü"
+      }
+    ],
+    "note": "Zincirin son halkası (revire götürülme) eksikti."
+  },
+  "DENETIM-032": {
+    "entities": [
+      {
+        "text": "Çocuk havuzu filtresi",
+        "label": "EQUIPMENT"
+      },
+      {
+        "text": "su akışı düştü",
+        "label": "EVENT"
+      },
+      {
+        "text": "klor dağılımı bozuldu",
+        "label": "EVENT"
+      },
+      {
+        "text": "hijyen puanı",
+        "label": "KPI"
+      },
+      {
+        "text": "hijyen puanı sınırın altına indi",
+        "label": "EVENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "Çocuk havuzu filtresi",
+        "type": "CAUSES",
+        "tail": "su akışı düştü"
+      },
+      {
+        "head": "su akışı düştü",
+        "type": "CAUSES",
+        "tail": "klor dağılımı bozuldu"
+      },
+      {
+        "head": "klor dağılımı bozuldu",
+        "type": "CAUSES",
+        "tail": "hijyen puanı sınırın altına indi"
+      }
+    ],
+    "note": "Zincirin sonucu (hijyen puanının düşmesi) EVENT olarak yoktu."
+  },
+  "DENETIM-040": {
+    "entities": [
+      {
+        "text": "overbooking uyarısı kapalıydı",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "6 oda fazla satıldı",
+        "label": "EVENT"
+      },
+      {
+        "text": "misafirler başka otele yönlendirildi",
+        "label": "EVENT"
+      },
+      {
+        "text": "memnuniyet puanı",
+        "label": "KPI"
+      },
+      {
+        "text": "memnuniyet puanı düştü",
+        "label": "EVENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "overbooking uyarısı kapalıydı",
+        "type": "CAUSES",
+        "tail": "6 oda fazla satıldı"
+      },
+      {
+        "head": "6 oda fazla satıldı",
+        "type": "CAUSES",
+        "tail": "misafirler başka otele yönlendirildi"
+      },
+      {
+        "head": "misafirler başka otele yönlendirildi",
+        "type": "CAUSES",
+        "tail": "memnuniyet puanı düştü"
+      }
+    ],
+    "note": "Zincirin sonucu (memnuniyet puanının düşmesi) EVENT olarak yoktu."
+  },
+  "DENETIM-041": {
+    "entities": [
+      {
+        "text": "HK",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "PMS'te",
+        "label": "EQUIPMENT"
+      },
+      {
+        "text": "oda durumu güncellenmiyor",
+        "label": "EVENT"
+      },
+      {
+        "text": "senkron eksik",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "FO",
+        "label": "DEPARTMENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "PMS'te",
+        "type": "CAUSES",
+        "tail": "oda durumu güncellenmiyor"
+      },
+      {
+        "head": "senkron eksik",
+        "type": "CAUSES",
+        "tail": "oda durumu güncellenmiyor"
+      },
+      {
+        "head": "oda durumu güncellenmiyor",
+        "type": "OCCURS_IN",
+        "tail": "HK"
+      }
+    ],
+    "note": "FO (Front Office) kısaltması departman olarak etiketlenmemişti."
+  },
+  "DENETIM-049": {
+    "entities": [
+      {
+        "text": "özel istek notlarını aktarmadı",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "süsleme bulamadı",
+        "label": "EVENT"
+      },
+      {
+        "text": "Resepsiyon",
+        "label": "DEPARTMENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "özel istek notlarını aktarmadı",
+        "type": "CAUSES",
+        "tail": "süsleme bulamadı"
+      }
+    ],
+    "note": "'Resepsiyon' departmanı etiketlenmemişti."
+  },
+  "DENETIM-063": {
+    "entities": [
+      {
+        "text": "bakım sözleşmesinin süresi dolduğundan",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "Teknik Servis",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "iki kat servis dışı kaldı",
+        "label": "EVENT"
+      },
+      {
+        "text": "Asansör",
+        "label": "EQUIPMENT"
+      },
+      {
+        "text": "periyodik kontrolleri yapamadı",
+        "label": "EVENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "bakım sözleşmesinin süresi dolduğundan",
+        "type": "CAUSES",
+        "tail": "periyodik kontrolleri yapamadı"
+      },
+      {
+        "head": "periyodik kontrolleri yapamadı",
+        "type": "CAUSES",
+        "tail": "iki kat servis dışı kaldı"
+      },
+      {
+        "head": "periyodik kontrolleri yapamadı",
+        "type": "OCCURS_IN",
+        "tail": "Teknik Servis"
+      }
+    ],
+    "note": "Asansör ve ara olay eksikti; OCCURS_IN yanlış olaya bağlıydı."
+  },
+  "DENETIM-068": {
+    "entities": [
+      {
+        "text": "sertifika yenilemeleri takip edilmiyor",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "süresi dolmuş belgeyle çalışırken yakalandı",
+        "label": "EVENT"
+      },
+      {
+        "text": "Spa",
+        "label": "DEPARTMENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "sertifika yenilemeleri takip edilmiyor",
+        "type": "CAUSES",
+        "tail": "süresi dolmuş belgeyle çalışırken yakalandı"
+      },
+      {
+        "head": "süresi dolmuş belgeyle çalışırken yakalandı",
+        "type": "OCCURS_IN",
+        "tail": "Spa"
+      }
+    ],
+    "note": "'Spa' departmanı etiketlenmemişti."
+  },
+  "DOF-015": {
+    "entities": [
+      {
+        "text": "Teknik Servis",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "asansör",
+        "label": "EQUIPMENT"
+      },
+      {
+        "text": "40 dakika geç ulaştı",
+        "label": "EVENT"
+      },
+      {
+        "text": "ekipte tek kişi vardı",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "jeneratör testi yapılıyordu",
+        "label": "ROOT_CAUSE"
+      }
+    ],
+    "relations": [
+      {
+        "head": "ekipte tek kişi vardı",
+        "type": "CAUSES",
+        "tail": "40 dakika geç ulaştı"
+      },
+      {
+        "head": "40 dakika geç ulaştı",
+        "type": "OCCURS_IN",
+        "tail": "Teknik Servis"
+      },
+      {
+        "head": "jeneratör testi yapılıyordu",
+        "type": "CAUSES",
+        "tail": "40 dakika geç ulaştı"
+      }
+    ],
+    "note": "İkinci neden (eşzamanlı jeneratör testi) etiketlenmemişti."
+  },
+  "DOF-045": {
+    "entities": [
+      {
+        "text": "PMS",
+        "label": "EQUIPMENT"
+      },
+      {
+        "text": "Ön Büro",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "14 hatalı kayıt oluştu",
+        "label": "EVENT"
+      },
+      {
+        "text": "F&B",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "yanlış kişi sayısıyla hazırlık yaptı",
+        "label": "EVENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "PMS",
+        "type": "CAUSES",
+        "tail": "14 hatalı kayıt oluştu"
+      },
+      {
+        "head": "14 hatalı kayıt oluştu",
+        "type": "CAUSES",
+        "tail": "yanlış kişi sayısıyla hazırlık yaptı"
+      },
+      {
+        "head": "14 hatalı kayıt oluştu",
+        "type": "OCCURS_IN",
+        "tail": "Ön Büro"
+      },
+      {
+        "head": "yanlış kişi sayısıyla hazırlık yaptı",
+        "type": "OCCURS_IN",
+        "tail": "F&B"
+      }
+    ],
+    "note": "F&B'deki olayın departman bağlantısı eksikti."
+  },
+  "SIKAYET-013": {
+    "entities": [
+      {
+        "text": "Su kaçağı",
+        "label": "EVENT"
+      },
+      {
+        "text": "halı koktu",
+        "label": "EVENT"
+      },
+      {
+        "text": "odayı değiştirmek zorunda kaldık",
+        "label": "EVENT"
+      },
+      {
+        "text": "tavanı ıslattı",
+        "label": "EVENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "halı koktu",
+        "type": "CAUSES",
+        "tail": "odayı değiştirmek zorunda kaldık"
+      },
+      {
+        "head": "Su kaçağı",
+        "type": "CAUSES",
+        "tail": "tavanı ıslattı"
+      },
+      {
+        "head": "tavanı ıslattı",
+        "type": "CAUSES",
+        "tail": "halı koktu"
+      }
+    ],
+    "note": "Zincirin ara halkası (tavanı ıslattı) eksikti."
+  },
+  "SIKAYET-027": {
+    "entities": [
+      {
+        "text": "Güvenlik görevlisinin",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "kimlik kontrolü yapmaması",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "odamıza yetkisiz biri girmiş",
+        "label": "EVENT"
+      },
+      {
+        "text": "valizim karışmıştı",
+        "label": "EVENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "kimlik kontrolü yapmaması",
+        "type": "CAUSES",
+        "tail": "odamıza yetkisiz biri girmiş"
+      },
+      {
+        "head": "odamıza yetkisiz biri girmiş",
+        "type": "OCCURS_IN",
+        "tail": "Güvenlik görevlisinin"
+      },
+      {
+        "head": "odamıza yetkisiz biri girmiş",
+        "type": "CAUSES",
+        "tail": "valizim karışmıştı"
+      }
+    ],
+    "note": "İkinci sonuç (valizin karışması) etiketlenmemişti."
+  },
+  "SIKAYET-052": {
+    "entities": [
+      {
+        "text": "HK",
+        "label": "DEPARTMENT"
+      },
+      {
+        "text": "az personelle çalışıyormuş",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "oda hazır olma süresi",
+        "label": "KPI"
+      },
+      {
+        "text": "4 saat olmuş",
+        "label": "EVENT"
+      },
+      {
+        "text": "F&B",
+        "label": "DEPARTMENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "az personelle çalışıyormuş",
+        "type": "CAUSES",
+        "tail": "4 saat olmuş"
+      },
+      {
+        "head": "4 saat olmuş",
+        "type": "OCCURS_IN",
+        "tail": "HK"
+      }
+    ],
+    "note": "Olayın gerçekleştiği departman (HK) bağlanmamıştı."
+  },
+  "SIKAYET-067": {
+    "entities": [
+      {
+        "text": "bardaklar kirliydi",
+        "label": "EVENT"
+      },
+      {
+        "text": "tek kişi çalışıyormuş",
+        "label": "ROOT_CAUSE"
+      },
+      {
+        "text": "barmen çok yorgun görünüyordu",
+        "label": "EVENT"
+      }
+    ],
+    "relations": [
+      {
+        "head": "tek kişi çalışıyormuş",
+        "type": "CAUSES",
+        "tail": "bardaklar kirliydi"
+      },
+      {
+        "head": "tek kişi çalışıyormuş",
+        "type": "CAUSES",
+        "tail": "barmen çok yorgun görünüyordu"
+      }
+    ],
+    "note": "Aradaki gözlem (barmenin yorgunluğu) EVENT olarak yoktu."
+  }
+}

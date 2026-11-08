@@ -1,0 +1,107 @@
+{
+  "source": "synthetic\\synthetic_hotel_quality.csv",
+  "n_rows_raw": 300,
+  "n_invalid": 0,
+  "n_valid": 300,
+  "n_gold_corrected": 19,
+  "all": {
+    "n_texts": 300,
+    "doc_type": {
+      "DOF": 75,
+      "DENETIM": 75,
+      "SIKAYET": 75,
+      "BAKIM": 75
+    },
+    "difficulty_tag": {
+      "implicit": 95,
+      "multi_cause": 33,
+      "chain": 37,
+      "explicit": 104,
+      "informal": 14,
+      "negative": 24,
+      "abbreviation": 23
+    },
+    "difficulty_primary": {
+      "implicit": 84,
+      "multi_cause": 32,
+      "explicit": 96,
+      "informal": 14,
+      "negative": 24,
+      "chain": 28,
+      "abbreviation": 22
+    },
+    "difficulty_group": {
+      "implicit": 84,
+      "multi_cause/chain": 60,
+      "explicit": 96,
+      "abbreviation/informal": 36,
+      "negative": 24
+    },
+    "entity_label": {
+      "DEPARTMENT": 207,
+      "EVENT": 410,
+      "ROOT_CAUSE": 249,
+      "ACTION": 68,
+      "EQUIPMENT": 145,
+      "KPI": 29
+    },
+    "relation_type": {
+      "CAUSES": 438,
+      "OCCURS_IN": 137,
+      "ADDRESSED_BY": 64
+    },
+    "n_entities": 1108,
+    "n_relations": 639,
+    "avg_words": 15.2
+  },
+  "gold": {
+    "n_texts": 60,
+    "doc_type": {
+      "DOF": 15,
+      "DENETIM": 15,
+      "SIKAYET": 15,
+      "BAKIM": 15
+    },
+    "difficulty_tag": {
+      "negative": 12,
+      "explicit": 15,
+      "implicit": 15,
+      "abbreviation": 9,
+      "chain": 10,
+      "multi_cause": 5,
+      "informal": 3
+    },
+    "difficulty_primary": {
+      "negative": 12,
+      "explicit": 12,
+      "implicit": 12,
+      "abbreviation": 9,
+      "chain": 8,
+      "multi_cause": 4,
+      "informal": 3
+    },
+    "difficulty_group": {
+      "negative": 12,
+      "explicit": 12,
+      "implicit": 12,
+      "abbreviation/informal": 12,
+      "multi_cause/chain": 12
+    },
+    "entity_label": {
+      "DEPARTMENT": 43,
+      "KPI": 10,
+      "ROOT_CAUSE": 46,
+      "EVENT": 85,
+      "ACTION": 15,
+      "EQUIPMENT": 29
+    },
+    "relation_type": {
+      "CAUSES": 90,
+      "OCCURS_IN": 24,
+      "ADDRESSED_BY": 14
+    },
+    "n_entities": 228,
+    "n_relations": 128,
+    "avg_words": 15.7
+  }
+}

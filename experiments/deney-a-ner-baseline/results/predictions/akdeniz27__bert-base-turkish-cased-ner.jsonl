@@ -1,0 +1,300 @@
+{"id": "DOF-001", "text": "İnsan Kaynakları, yeni başlayan on garsonun iki hafta içinde ayrıldığını raporladı. Maaş ödemeleri üç kez gecikmişti.", "pred": [{"text": "İnsan Kaynakları", "label": "ORG", "start": 0, "end": 16, "score": 0.8598}]}
+{"id": "DOF-002", "text": "Personel eksikliği ve yeni PMS arayüzüne uyum sorunu, kat kontrollerinin gecikmesine; bu da erken giriş yapan misafirlerin lobide beklemesine neden oldu.", "pred": []}
+{"id": "DOF-003", "text": "Satın Alma kaynaklı tedarik gecikmesi yüzünden mini bar ikmalleri yapılamadı. Alternatif tedarikçi devreye alındı.", "pred": []}
+{"id": "DOF-004", "text": "Havuz bar'da buz makinası bozulmuş, bu yüzden kokteyller ılık servis edilmiş. Teknik servis bakıma almış.", "pred": []}
+{"id": "DOF-005", "text": "Spa bölümü için yıllık hijyen denetimi tamamlandı. Hijyen puanı 94 olarak kayıtlara işlendi.", "pred": []}
+{"id": "DOF-006", "text": "Odalardaki su kaçağı iki nedenden kaynaklandı: bakım gecikmesi ve eskimiş vana contaları. Kaçak, tavan boyasında dökülmeye yol açtı.", "pred": []}
+{"id": "DOF-007", "text": "Güvenlik kamerasındaki kayıt kesintisi, depolama biriminin dolu olması sebebiyle meydana geldi. Kayıt sunucusuna ek disk takıldı.", "pred": []}
+{"id": "DOF-008", "text": "Mini Club haftalık faaliyet programı güncellendi. Yeni program ebeveynlere bilgilendirme panosuyla duyuruldu.", "pred": [{"text": "Mini Club", "label": "ORG", "start": 0, "end": 9, "score": 0.7991}]}
+{"id": "DOF-009", "text": "Oda 412'de klima çalışmıyordu. Misafir gece yarısı resepsiyona indi. Sabah oda değişikliği yapıldı ve klima kontrol edildi.", "pred": []}
+{"id": "DOF-010", "text": "Ön Büro'da yoğun grup girişi nedeniyle geç check-in yaşandı. Ek resepsiyon personeli yönlendirildi.", "pred": []}
+{"id": "DOF-011", "text": "Tedarik gecikmesi nedeniyle taze balık gelmedi, menü değişikliği yapıldı ve misafir memnuniyet puanı düştü. Tedarik sözleşmesi revize edildi.", "pred": []}
+{"id": "DOF-012", "text": "Kat Hizmetleri'nde personel eksikliği nedeniyle oda hazır olma süresi 45 dakikaya çıktı. Vardiya planı revize edilerek ek personel görevlendirildi.", "pred": []}
+{"id": "DOF-013", "text": "Jeneratör bakımı ertelendi; elektrik kesintisinde jeneratör devreye girmedi, bu yüzden asansörler durdu ve restoran karanlıkta kaldı.", "pred": []}
+{"id": "DOF-014", "text": "Misafir İlişkileri'ne bir haftada dört şikâyet geldi. Hepsi akşam yemeği bekleme süresiyle ilgiliydi. Restoranda servis personeli o günler yarı kadrodaydı.", "pred": []}
+{"id": "DOF-015", "text": "Teknik Servis asansör arızasına müdahale için 40 dakika geç ulaştı. Aynı saatte jeneratör testi yapılıyordu ve ekipte tek kişi vardı.", "pred": [{"text": "Teknik", "label": "ORG", "start": 0, "end": 6, "score": 0.716}]}
+{"id": "DOF-016", "text": "F&B'de HK'dan gelen geç bildirim → salon temizliği gecikti → kahvaltı açılışı 20 dk kaydı. DÖF kapatıldı.", "pred": [{"text": "F", "label": "ORG", "start": 0, "end": 1, "score": 0.7399}, {"text": "B", "label": "ORG", "start": 2, "end": 3, "score": 0.7321}, {"text": "HK", "label": "ORG", "start": 7, "end": 9, "score": 0.99}]}
+{"id": "DOF-017", "text": "Mini Club'da çocuk sayısı kapasitenin üstüne çıktı. Animatör sayısı aynı kaldı. Bir velinin şikâyeti geldi.", "pred": [{"text": "Mini Club", "label": "ORG", "start": 0, "end": 9, "score": 0.5906}]}
+{"id": "DOF-018", "text": "Spa'da eğitim eksikliği nedeniyle yeni terapistler rezervasyon sistemini hatalı kullandı ve çift randevu oluştu. Terapistlere oryantasyon eğitimi verildi.", "pred": []}
+{"id": "DOF-019", "text": "Hem eğitim eksikliği hem de yoğun doluluk yüzünden Ön Büro'da hatalı fatura düzenlendi. Fatura düzeltildi ve resepsiyon ekibine kontrol listesi verildi.", "pred": []}
+{"id": "DOF-020", "text": "Bulaşık makinesinin arızası sebebiyle akşam servisinde tabak yetersizliği yaşandı. Makine yenisiyle değiştirildi.", "pred": []}
+{"id": "DOF-021", "text": "Havuz pompasının bakım gecikmesi yüzünden havuz suyu bulanıklaştı. Bakım planı güncellendi.", "pred": []}
+{"id": "DOF-022", "text": "DÖF: HK'da PMS oda statüsü geç girildiği için KPI hedefi tutmadı. Anlık giriş zorunlu kılındı.", "pred": [{"text": "DÖF", "label": "PER", "start": 0, "end": 3, "score": 0.805}, {"text": "HK", "label": "ORG", "start": 5, "end": 7, "score": 0.8746}]}
+{"id": "DOF-023", "text": "Mutfakta akşam servisinde yemekler soğuk çıktı. Pass bölümündeki ısıtıcı lamba iki gündür yanmıyordu. Lamba değiştirildi.", "pred": []}
+{"id": "DOF-024", "text": "Mutfakta soğutucu dolap termostatının bozulması sebebiyle bir parti et ürünü bozuldu. Dolap servise alındı, günlük sıcaklık kontrolü başlatıldı.", "pred": []}
+{"id": "DOF-025", "text": "Havuz başında dün iki kayma vakası yaşandı. Zemin kaplaması aylardır yenilenmemişti. Anti-kayma bant uygulaması yapıldı.", "pred": []}
+{"id": "DOF-026", "text": "Rezervasyon sistemindeki yazılım hatası yüzünden aynı odaya iki misafir yerleştirildi. Ön Büro misafirleri üst kategoriye aldı ve hata IT'ye iletildi.", "pred": [{"text": "IT", "label": "ORG", "start": 135, "end": 137, "score": 0.6446}]}
+{"id": "DOF-027", "text": "Mutfakta kriz yönetim planının olmaması yüzünden gaz kesintisinde servis 30 dakika durdu. Acil durum prosedürü yazıldı.", "pred": []}
+{"id": "DOF-028", "text": "Bayram haftasında Kat Hizmetleri'nde izinler kısıtlanmadı. Oda temizlik şikâyetleri 3 kat arttı.", "pred": []}
+{"id": "DOF-029", "text": "Kombi fırın bozulunca akşam menüsü kısaltıldı, bekleme süresi uzadı ve misafir memnuniyet puanı düştü.", "pred": []}
+{"id": "DOF-030", "text": "Misafir İlişkileri, odasında sivrisinek şikâyeti olan üç misafirle görüştü. Balkon kapı fitilleri yıpranmıştı. Fitiller yenilendi.", "pred": []}
+{"id": "DOF-031", "text": "Restoranda kahvaltı büfesi 09.30'da boşaldı. Yeniden doldurma listesi o sabah hazırlanmamıştı. Misafirler kuyrukta bekledi.", "pred": []}
+{"id": "DOF-032", "text": "Dün akşam animasyon sahnesinde ses sistemi kesildi. Mikser kablosu geçen ay da değiştirilmişti, aynı bağlantı yine gevşekti.", "pred": []}
+{"id": "DOF-033", "text": "Hem yağmurlu hava hem de kapalı alan eksikliği nedeniyle açık büfe akşam yemeği iptal edildi. Alternatif salon planı hazırlandı.", "pred": []}
+{"id": "DOF-034", "text": "Yeni işe alınan aşçıların üçü ilk ayda hatalı porsiyonlama yaptı. Mutfakta oryantasyon programı bu dönem uygulanmamıştı. Maliyet hedefi aşıldı.", "pred": []}
+{"id": "DOF-035", "text": "Satın Alma onayının gecikmesi, yedek parçanın geç gelmesine; bu da asansör arızasının 3 gün sürmesine yol açtı.", "pred": []}
+{"id": "DOF-036", "text": "Yetersiz stok takibi nedeniyle temizlik malzemesi tükendi. Satın Alma minimum stok seviyesi tanımladı.", "pred": []}
+{"id": "DOF-037", "text": "Sauna kontrol panelinin kalibrasyon eksikliği nedeniyle sauna iki gün hizmet vermedi. Panel yeniden kalibre edildi.", "pred": []}
+{"id": "DOF-038", "text": "Menü planlama hatası sebebiyle büfede glütensiz seçenek bulunmadı. Misafir İlişkileri özür notu ilettiğinde alerjen kontrol formu devreye alındı.", "pred": []}
+{"id": "DOF-039", "text": "Gece vardiyasında iki misafir bagajlarının kaybolduğunu söyledi. Teslim kaydı yoktu. Dijital bagaj etiketi uygulamasına geçildi.", "pred": []}
+{"id": "DOF-040", "text": "Güvenlik ekibi, bahçedeki aydınlatma arızası nedeniyle gece devriyesinde bir bölgeyi kontrol edemedi. Armatürler değiştirildi.", "pred": []}
+{"id": "DOF-041", "text": "Satın Alma bu ay 12 tedarikçiyle fiyat görüşmesi yaptı. Yeni sözleşme taslakları hukuk birimine gönderildi.", "pred": []}
+{"id": "DOF-042", "text": "Spa'da jakuzi pompası yine ölmüş, bakımcı da izindeymiş, misafirler kızgın. Pazartesiye kadar kapalı.", "pred": []}
+{"id": "DOF-043", "text": "Güvenlik, havuz çevresinde kimlik kartı olmayan üç dış ziyaretçi tespit etti. Giriş turnikesi iki gündür kapalı konumdaydı.", "pred": []}
+{"id": "DOF-044", "text": "Klima filtrelerinin temizlenmemesi ve bakım gecikmesi yüzünden kompresör aşırı yüklendi, sonunda lobi klimaları durdu.", "pred": []}
+{"id": "DOF-045", "text": "PMS çöktü. Ön Büro rezervasyonları elle girdi; 14 hatalı kayıt oluştu. F&B yanlış kişi sayısıyla hazırlık yaptı.", "pred": [{"text": "F&B", "label": "ORG", "start": 71, "end": 74, "score": 0.667}]}
+{"id": "DOF-046", "text": "Çamaşırhane makinesinin kapasite yetersizliği yüzünden havlu teslimi aksadı. Ek yıkama vardiyası planlandı.", "pred": []}
+{"id": "DOF-047", "text": "Yeni sezon başlangıcında işe alım gecikti ve eğitim takvimi sıkıştı; sonuç olarak havuz görevlilerinin ilk yardım sertifikası eksik kaldı. Sertifika kursu hafta sonuna planlandı.", "pred": []}
+{"id": "DOF-048", "text": "Güvenlik ekibi yangın tatbikatını planlandığı gibi tamamladı. Tüm personel toplanma alanına 4 dakikada ulaştı.", "pred": []}
+{"id": "DOF-049", "text": "KPI raporunda F&B hijyen puanı 82'ye geriledi. HK ile ortak denetim yapıldı, DÖF kapsamında personel hijyen eğitimi planlandı.", "pred": [{"text": "HK", "label": "ORG", "start": 47, "end": 49, "score": 0.9881}, {"text": "DÖF", "label": "ORG", "start": 77, "end": 80, "score": 0.7281}]}
+{"id": "DOF-050", "text": "Servis personelinin dil eğitimi almamış olması nedeniyle yabancı misafirlerle iletişim sorunu yaşandı. Dil kursu programı başlatıldı.", "pred": []}
+{"id": "DOF-051", "text": "DÖF kaydı: HK'nın PMS'e geç veri girmesi, Ön Büro'da oda bekletmesine yol açtı. HK'ya KPI takip ekranı tanımlandı.", "pred": [{"text": "HK", "label": "ORG", "start": 11, "end": 13, "score": 0.9935}, {"text": "HK", "label": "ORG", "start": 80, "end": 82, "score": 0.9866}]}
+{"id": "DOF-052", "text": "Teknik Servis aylık asansör bakım kontrolünü zamanında tamamladı. Tüm cihazlar çalışır durumda teslim edildi.", "pred": []}
+{"id": "DOF-053", "text": "Misafir şikâyetlerinin artışında üç etken vardı: eksik personel, bozuk klimalar ve geç gelen yedek parça. Misafir memnuniyet puanı 4,1'e geriledi.", "pred": []}
+{"id": "DOF-054", "text": "Havuz bar stoğunda şişe sayımı tutmadı. Vardiya devri imzasız yapılıyor. Aylık fire %6'yı geçti.", "pred": []}
+{"id": "DOF-055", "text": "Kahvaltıda bal ve reçel çeşitleri tükendi. Satın Alma haftalık siparişi pazartesi vermemişti.", "pred": []}
+{"id": "DOF-056", "text": "Yıllık HK personel eğitim takvimi yayımlandı. Eğitimler PMS ve KPI konularını kapsıyor.", "pred": []}
+{"id": "DOF-057", "text": "İnsan Kaynakları, vardiya planlama hatası nedeniyle gece bekçisinin iki gün üst üste çalıştırıldığını tespit etti. Planlama formatı değiştirildi.", "pred": [{"text": "İnsan Kaynakları", "label": "ORG", "start": 0, "end": 16, "score": 0.8745}]}
+{"id": "DOF-058", "text": "Ek bir eğitim yapılmadığı ve etiket kontrolünün atlandığı için alerjenli sos yanlış tabağa servis edildi.", "pred": []}
+{"id": "DOF-059", "text": "Mutfakta tezgahın musluğu akıtıyormuş, zemin ıslanınca bi aşçı kaymış. Tamirci musluğu değiştirmiş.", "pred": []}
+{"id": "DOF-060", "text": "Misafir ilişkleri bugün 3 sikayet almış, hepsi odadaki wifi yavaşlığı ile ilgili, ağ cihazı eskiymiş.", "pred": []}
+{"id": "DOF-061", "text": "Mini Club'da alerjen bilgisinin kayda geçirilmemesi nedeniyle bir çocuğa yanlış ara öğün verildi. Kayıt formuna alerji alanı eklendi.", "pred": [{"text": "Mini", "label": "ORG", "start": 0, "end": 4, "score": 0.7244}, {"text": "Club", "label": "LOC", "start": 5, "end": 9, "score": 0.4342}]}
+{"id": "DOF-062", "text": "Çöp depolama alanındaki havalandırma yetersizliği yüzünden kötü koku oluştu. Mutfak, çöp toplama saatlerini sıklaştırdı.", "pred": []}
+{"id": "DOF-063", "text": "Misafir İlişkileri'ne gelen yorumlarda gürültü şikâyetleri arttı. Gece animasyonu 23.30'a kadar uzatılmıştı.", "pred": []}
+{"id": "DOF-064", "text": "Oda 305'te banyo gideri tıkandı. Misafir iki kez arama yaptı. Resepsiyon ilk bildirimi Teknik Servis'e iletmedi; müdahale ertesi sabah yapıldı.", "pred": []}
+{"id": "DOF-065", "text": "Vardiya devir notu yazılmaması sebebiyle bir VIP isteği karşılanmadı. Devir formu zorunlu hale getirildi.", "pred": []}
+{"id": "DOF-066", "text": "Gece spa girişinde kayma olayı yaşandı. Paspaslar nemden ıslanmış, değiştirilmemişti.", "pred": []}
+{"id": "DOF-067", "text": "Teknik Servis jeneratörü iki aydır deneme çalıştırmasına almadı. Elektrik kesintisinde cihaz ilk denemede başlamadı.", "pred": [{"text": "Teknik", "label": "ORG", "start": 0, "end": 6, "score": 0.6426}]}
+{"id": "DOF-068", "text": "Su basıncı düşüklüğü hem boru tıkanıklığından hem de pompa arızasından kaynaklandı; sonuç olarak üst katlarda duş suyu kesildi.", "pred": []}
+{"id": "DOF-069", "text": "Tek tedarikçiye bağımlılık nedeniyle zeytinyağı stoğu bitti. Satın Alma ikinci bir tedarikçiyle anlaşma yaptı.", "pred": []}
+{"id": "DOF-070", "text": "Asansör kapı sensörünün kirlenmesi yüzünden asansör sık sık durdu. Sensörler temizlendi ve aylık kontrol listesine eklendi.", "pred": []}
+{"id": "DOF-071", "text": "Fırın bakımının yapılmaması ve gaz basıncının düşmesi nedeniyle pişirme süresi uzadı, kahvaltı geç açıldı. Bakım takvimi yeniden düzenlendi.", "pred": []}
+{"id": "DOF-072", "text": "Havuzda klor dozaj cihazının arızası sebebiyle hijyen puanı eşiğin altına düştü. Cihaz onarıldı.", "pred": []}
+{"id": "DOF-073", "text": "Çalışan devir hızı arttı; boş kadrolar doldurulamadı ve kalan ekip fazla mesaiye kaldı, bu da kat kontrol hatalarını artırdı.", "pred": []}
+{"id": "DOF-074", "text": "Check-in sırasında oda anahtarı kartlarının yanlış kodlanması nedeniyle üç misafir odasına giremedi. Ön Büro kodlama cihazının ayarını yeniledi.", "pred": []}
+{"id": "DOF-075", "text": "Yeni mezun üç resepsiyonist geç check-in oranını yükseltti. Sistem eğitimi yalnızca yarım gün sürmüştü.", "pred": []}
+{"id": "DENETIM-001", "text": "Depo sayımı iki aydır yapılmadı. Mutfakta bir gece sos stoğu bitti, menüden iki yemek çıkarıldı.", "pred": []}
+{"id": "DENETIM-002", "text": "Gece güvenlik devriyesinin aksaması, telsiz pillerinin şarj edilmemesinden ve devir teslim formunun doldurulmamasından kaynaklanıyor.", "pred": []}
+{"id": "DENETIM-003", "text": "Güvenlik kamerası kayıtlarının eksik çıkması, kayıt sunucusunun diski dolduğu için meydana geldi.", "pred": []}
+{"id": "DENETIM-004", "text": "Spa resepsiyonunda kayıt defteri güncel tutulmuş, tüm randevular PMS ile uyumlu bulunmuştur. Uygunsuzluk tespit edilmemiştir.", "pred": []}
+{"id": "DENETIM-005", "text": "Misafir İlişkileri biriminde şikayet kayıtlarının tamamı 24 saat içinde yanıtlanmış; misafir memnuniyet puanı 9,1 olarak ölçülmüştür.", "pred": []}
+{"id": "DENETIM-006", "text": "Kazan dairesindeki pompa arızası sıcak su kesintisine, sıcak su kesintisi ise oda şikayetlerine ve iki gece ücretsiz oda değişikliğine yol açtı.", "pred": []}
+{"id": "DENETIM-007", "text": "Teknik Servis kayıtlarına göre asansör arızası, yedek parça temin edilemediği için 6 gün giderilemedi.", "pred": []}
+{"id": "DENETIM-008", "text": "F&B KPI raporunda kahvaltı bufesinde fire artışı görüldü; porsiyon standardı eğitimi eksikliği nedeniyle DÖF açıldı, eğitim verildi.", "pred": [{"text": "F", "label": "ORG", "start": 0, "end": 1, "score": 0.6916}, {"text": "B", "label": "ORG", "start": 2, "end": 3, "score": 0.6407}]}
+{"id": "DENETIM-009", "text": "Bulaşık makinesinin son durulama ısısı 70 dereceye ulaşmıyor. Bardaklarda leke şikayetleri geldi.", "pred": []}
+{"id": "DENETIM-010", "text": "Spa'da randevu çakışmaları, eğitim eksikliği sebebiyle resepsiyon personelinin rezervasyon modülünü yanlış kullanmasından kaynaklanıyor.", "pred": []}
+{"id": "DENETIM-011", "text": "Mini Club'da veli şikayetleri hem oyun alanındaki kırık ekipmanların onarılmaması hem de animatör sayısının yetersizliği nedeniyle arttı.", "pred": [{"text": "Mini Club", "label": "ORG", "start": 0, "end": 9, "score": 0.8569}]}
+{"id": "DENETIM-012", "text": "Ön Büro'da geç check-in şikayetleri, PMS sisteminin yavaşlaması nedeniyle arttı.", "pred": []}
+{"id": "DENETIM-013", "text": "Hijyen eğitimi yenilenmediği için bir komi tezgahı yanlış temizledi, çapraz bulaşma riski doğdu ve iç denetimde hijyen puanı düştü.", "pred": []}
+{"id": "DENETIM-014", "text": "A la carte restoranda akşam servisinde garson sayısı yarıya inmişti. Misafirler yemeklerini 50 dakikada alabildi.", "pred": []}
+{"id": "DENETIM-015", "text": "Havuz görevlisi vardiya değişiminde cankurtaran kulesini boş bıraktı. Çocuk havuzunda bir ramak kala olayı yaşandı.", "pred": []}
+{"id": "DENETIM-016", "text": "Bakım ekibi dedi ki klima filtreleri hic temizlenmemiş, odada koku var diye 3 misafir sikayet etti.", "pred": []}
+{"id": "DENETIM-017", "text": "Grup rezervasyonu PMS'e girilmemişti. Misafirler gelince anahtar kartları hazır değildi.", "pred": []}
+{"id": "DENETIM-018", "text": "Havuz pompasındaki bakım gecikmesi yüzünden havuz suyu bulanıklaştı ve hijyen puanı düştü.", "pred": []}
+{"id": "DENETIM-019", "text": "Bakım planı güncellenmediği ve yedek filtre stoğu tutulmadığı için klima performansı düştü; bu da oda sıcaklığı şikayetlerine neden oldu. Teknik Servis bakım planını güncelledi.", "pred": [{"text": "Teknik", "label": "ORG", "start": 138, "end": 144, "score": 0.5412}]}
+{"id": "DENETIM-020", "text": "Mutfakta soğuk yemek servisi, pass noktasındaki ısıtıcı ünitenin arızası sebebiyle tekrarlandı.", "pred": []}
+{"id": "DENETIM-021", "text": "Kat Hizmetleri'nde oda hazırlama gecikmeleri yaşandı; oda hazır olma süresi personel eksikliği yüzünden 45 dakikaya çıktı.", "pred": []}
+{"id": "DENETIM-022", "text": "DÖF-14: HK'da minibar kontrol listesi doldurulmadığı için eksik ikram bulundu; DÖF kapatıldı, KPI olarak aylık minibar uyum oranı izlenecek.", "pred": [{"text": "DÖF", "label": "ORG", "start": 79, "end": 82, "score": 0.5964}]}
+{"id": "DENETIM-023", "text": "Spa'daki buhar odasının nem sensörü kalibre edilmemiş. Hafta boyunca misafirlerden sıcaklık şikayeti alındı.", "pred": []}
+{"id": "DENETIM-024", "text": "Satın Alma biriminin sipariş onay sürecindeki tedarik gecikmesi nedeniyle Mini Club'da boya malzemesi yetersiz kaldı.", "pred": [{"text": "Mini", "label": "ORG", "start": 74, "end": 78, "score": 0.8658}, {"text": "Club", "label": "LOC", "start": 79, "end": 83, "score": 0.612}]}
+{"id": "DENETIM-025", "text": "Kat Hizmetleri vardiya planı hafta sonu için hazırlanmamıştı. Pazar günü 12 oda saat 16:00'ya kadar teslim edilemedi.", "pred": []}
+{"id": "DENETIM-026", "text": "Doğum günü pastasının geç gelmesi, siparişin Mutfak'a geç iletilmesi ve pastacının izinli olması ile açıklanabilir.", "pred": []}
+{"id": "DENETIM-027", "text": "Mini Club kayıt formlarında alerji bilgisi alanı boş bırakılmış. Bir çocuk fıstıklı ikram yedi ve revire götürüldü.", "pred": [{"text": "Mini", "label": "ORG", "start": 0, "end": 4, "score": 0.6595}]}
+{"id": "DENETIM-028", "text": "Jeneratör testlerinin yapılmaması nedeniyle elektrik kesintisinde otel 20 dakika karanlıkta kaldı.", "pred": []}
+{"id": "DENETIM-029", "text": "Güvenlik ekibinin yangın tatbikatı planlandığı gibi yapıldı; tahliye süresi hedef sınır içinde kaldı ve açık uygunsuzluk bulunmadı.", "pred": []}
+{"id": "DENETIM-030", "text": "Ön Büro'da fatura hataları, PMS'te vergi oranının güncellenmemesi nedeniyle ortaya çıktı.", "pred": []}
+{"id": "DENETIM-031", "text": "Çamaşırhane buhar kazanı bakımı ertelendi; peçete teslimatı gecikti, restoran servisi aksadı. Bakım planı güncellendi.", "pred": []}
+{"id": "DENETIM-032", "text": "Çocuk havuzu filtresi tıkandı, su akışı düştü, klor dağılımı bozuldu ve hijyen puanı sınırın altına indi.", "pred": []}
+{"id": "DENETIM-033", "text": "Spa'da aroma yağı siparişi iki hafta önce verilmemişti. Masaj paketlerinden üçü iptal edildi.", "pred": []}
+{"id": "DENETIM-034", "text": "Teknik Servis kapı kilit pillerini yıllık planda değiştirmiyor. Bu ay 9 odada kart okuyucu çalışmadı.", "pred": [{"text": "Teknik", "label": "ORG", "start": 0, "end": 6, "score": 0.7808}]}
+{"id": "DENETIM-035", "text": "Bahçe sulama zamanlayıcısı yanlış programlanmış. Sabah erken saatte misafirlerin yürüyüş yolu ıslandı.", "pred": []}
+{"id": "DENETIM-036", "text": "İç denetimde Mutfak depolarında FIFO uygulaması, etiketleme ve sıcaklık kayıtları incelenmiş olup herhangi bir bulguya rastlanmamıştır.", "pred": []}
+{"id": "DENETIM-037", "text": "Tabaklarda kireç kalıntısı, deterjan dozajının ayarsızlığı ve su sertliği nedeniyle oluşuyor.", "pred": []}
+{"id": "DENETIM-038", "text": "Kat Hizmetleri'nde havlu stoğunun azalması, çamaşırhane makinesinin arızalanması yüzünden yaşandı.", "pred": [{"text": "Hizmetleri", "label": "ORG", "start": 4, "end": 14, "score": 0.6702}]}
+{"id": "DENETIM-039", "text": "Mutfaktaki derin dondurucunun kapı contası yıpranmış. Etlerde buz tutma gözlendi.", "pred": []}
+{"id": "DENETIM-040", "text": "Rezervasyon sistemindeki overbooking uyarısı kapalıydı; bu yüzden 6 oda fazla satıldı, sonuçta misafirler başka otele yönlendirildi ve memnuniyet puanı düştü.", "pred": []}
+{"id": "DENETIM-041", "text": "HK DÖF'ünde kök neden: PMS'te oda durumu güncellenmiyor; FO ile HK arasında senkron eksik.", "pred": []}
+{"id": "DENETIM-042", "text": "F&B KPI raporunda kahvaltıda bekleme şikayetleri arttı: PMS pax listesi hatası ve HK-F&B koordinasyon eksikliği.", "pred": []}
+{"id": "DENETIM-043", "text": "gece vardiyasi bar'da buz makinesi yine bozuk, buzsuz kokteyl verdik misafir kizdi", "pred": []}
+{"id": "DENETIM-044", "text": "Plaj havuzunda su kalitesi ölçümlerinin atlanması, görevli personelin eğitimsiz olması nedeniyle gerçekleşti.", "pred": []}
+{"id": "DENETIM-045", "text": "Yiyecek-İçecek departmanında alerjen etiketlerinin eksik olması, menü güncellemesinin duyurulmaması sebebiyle iç denetimde uygunsuzluk olarak kaydedildi.", "pred": []}
+{"id": "DENETIM-046", "text": "İnsan Kaynakları kayıtlarına göre sezonluk personelin işe giriş eğitimi tamamlanmadığı için üç departmanda hijyen ihlali görüldü.", "pred": []}
+{"id": "DENETIM-047", "text": "Satın Alma sürecinde teslim edilen deniz ürünlerinin soğuk zincir dışına çıkması, tedarikçi aracındaki soğutma ünitesinin bozulması yüzünden tespit edildi.", "pred": []}
+{"id": "DENETIM-048", "text": "Yangın tüplerinin kontrol etiketleri bir yıldır güncellenmemiş. Dış denetimde Güvenlik için majör uygunsuzluk yazıldı.", "pred": []}
+{"id": "DENETIM-049", "text": "Resepsiyon vardiya devrinde özel istek notlarını aktarmadı. Balayı çifti odasında süsleme bulamadı.", "pred": []}
+{"id": "DENETIM-050", "text": "Misafir İlişkileri'ne gelen gürültü şikayetleri, animasyon sahnesinin ses sisteminin limitörsüz çalıştırılması sebebiyle yinelendi.", "pred": []}
+{"id": "DENETIM-051", "text": "Oda temizlik şikayetleri, kat denetim formlarının imzasız bırakılması sebebiyle artış gösterdi.", "pred": []}
+{"id": "DENETIM-052", "text": "Spa'da ısıtıcı rezistansın arızası sebebiyle jakuzi 5 gün kapalı kaldı.", "pred": []}
+{"id": "DENETIM-053", "text": "Yeni işe alınan komilere oryantasyon yapılmadı, bu nedenle gıda etiketleme hataları arttı, dış denetimde mutfak notu düşürüldü.", "pred": []}
+{"id": "DENETIM-054", "text": "Mini Club kayıt, ilk yardım dolabı ve personel sabıka kayıtları kontrol edilmiş; tüm kayıtlar güncel ve mevzuata uygundur.", "pred": []}
+{"id": "DENETIM-055", "text": "Mini Club'da yaralanma kaydı, oyun alanı zemin kaplamasının yenilenmemesi yüzünden oluştu.", "pred": [{"text": "Mini Club", "label": "ORG", "start": 0, "end": 9, "score": 0.5704}]}
+{"id": "DENETIM-056", "text": "Spa'da masaj odasinin klimasi calismiyo, misafir terledi diye indirim istedi, teknik servis gec geldi.", "pred": []}
+{"id": "DENETIM-057", "text": "Ön Büro gece vardiyasında tek kişi kaldı. Sabah 06:00 transferleri için uyandırma aramaları yapılmadı.", "pred": []}
+{"id": "DENETIM-058", "text": "Satın Alma, tedarikçi değişikliği yüzünden taze meyve kalitesinde düşüş yaşadı ve Mutfak iade yaptı.", "pred": []}
+{"id": "DENETIM-059", "text": "Oda minibar eksiklikleri hem sayım formunun geç dolmasından hem de satın alma onaylarının gecikmesinden kaynaklandı; HK ile Satın Alma ortak toplantı yaptı.", "pred": [{"text": "HK", "label": "ORG", "start": 117, "end": 119, "score": 0.991}]}
+{"id": "DENETIM-060", "text": "Mutfakta ızgara davlumbazı yağ filtreleri temizlenmemişti. Denetim sırasında yağ birikimi ve yangın riski tespit edildi.", "pred": []}
+{"id": "DENETIM-061", "text": "PMS-HK entegrasyonu yok, HK her odayı telsizle bildiriyor; FO'da oda statüsü gecikiyor, KPI: ort. hazır olma 38 dk.", "pred": [{"text": "PMS", "label": "ORG", "start": 0, "end": 3, "score": 0.6353}, {"text": "HK", "label": "ORG", "start": 4, "end": 6, "score": 0.5918}, {"text": "HK", "label": "ORG", "start": 25, "end": 27, "score": 0.8069}]}
+{"id": "DENETIM-062", "text": "Havuz kimyasal ölçüm defteri günlük tutulmuş, klor ve pH değerleri sınırlar içindedir; hijyen puanı 96 olarak kaydedilmiştir.", "pred": []}
+{"id": "DENETIM-063", "text": "Asansör bakım sözleşmesinin süresi dolduğundan Teknik Servis periyodik kontrolleri yapamadı ve iki kat servis dışı kaldı.", "pred": [{"text": "Teknik Servis", "label": "ORG", "start": 47, "end": 60, "score": 0.8024}]}
+{"id": "DENETIM-064", "text": "Fazla rezervasyon alınmış. Akşam yemeğinde 40 misafir masa için sırada bekledi.", "pred": []}
+{"id": "DENETIM-065", "text": "Teknik Servis'e iletilen su kaçağı ihbarı kayda alınmadı; kaçak büyüyüp tavan alçıpanını çökertti, oda satışa kapatıldı.", "pred": [{"text": "Teknik Servis", "label": "ORG", "start": 0, "end": 13, "score": 0.9506}]}
+{"id": "DENETIM-066", "text": "DÖF-31: F&B'de kahve makinesi kireç çözme periyodu aşılmış, kahve tadı şikayeti geldi; KPI takibi başlatıldı, kireç çözme yapıldı.", "pred": [{"text": "F&B", "label": "ORG", "start": 8, "end": 11, "score": 0.5342}]}
+{"id": "DENETIM-067", "text": "Havuz başı servis gecikmesinin sebepleri arasında bar personelinin eksikliği ve POS cihazının sık donması yer alıyor.", "pred": []}
+{"id": "DENETIM-068", "text": "Spa terapistlerinin sertifika yenilemeleri takip edilmiyor. Bir terapist süresi dolmuş belgeyle çalışırken yakalandı.", "pred": []}
+{"id": "DENETIM-069", "text": "Kat Hizmetleri'ndeki personel eksikliği nedeniyle Ön Büro'da erken check-in talepleri karşılanamadı.", "pred": [{"text": "Hizmetleri", "label": "ORG", "start": 4, "end": 14, "score": 0.5826}]}
+{"id": "DENETIM-070", "text": "Bar stoklarındaki fark, sayım formlarının doldurulmaması nedeniyle iki ay boyunca fark edilmedi.", "pred": []}
+{"id": "DENETIM-071", "text": "Güvenlik, kimlik kontrolü prosedürünün bilinmemesi nedeniyle yetkisiz bir ziyaretçinin personel girişinden geçmesine engel olamadı.", "pred": []}
+{"id": "DENETIM-072", "text": "Bulaşık makinesi servis bakımı yapılmadı. Bardak hijyen testinde iki numune uygunsuz çıktı.", "pred": []}
+{"id": "DENETIM-073", "text": "Çatı havalandırma fanı gürültülü çalışıyor, yağlama yapılmamış. Üst kat odalarından gece uyku şikayeti geldi.", "pred": []}
+{"id": "DENETIM-074", "text": "Asansör kapı sensörü kirlendi, kabin sık sık durdu, misafirler kabinde mahsur kaldı.", "pred": []}
+{"id": "DENETIM-075", "text": "Mini Club animatörü ebeveyn onay formlarını arşivlememiş. Şikayet geldiğinde onay belgesi gösterilemedi.", "pred": [{"text": "Mini", "label": "ORG", "start": 0, "end": 4, "score": 0.6239}]}
+{"id": "SIKAYET-001", "text": "Güvenlik kapıda kimseyi sormadı, plajda yabancı biri şezlongumuzun üstündeki çantayı aldı.", "pred": []}
+{"id": "SIKAYET-002", "text": "Teknik servisin geç gelmesi ve yedek parça bulunamaması nedeniyle duşumuz üç gün çalışmadı.", "pred": []}
+{"id": "SIKAYET-003", "text": "Temizlik görevlisinin eğitimsizliği yüzünden banyoda saç kalıntıları kalmış, hijyen puanını en düşük verdim.", "pred": []}
+{"id": "SIKAYET-004", "text": "Genel olarak memnun kalmadım, beklentimi karşılamadı.", "pred": []}
+{"id": "SIKAYET-005", "text": "Merhaba, spa ve masaj fiyat listesini ve açık olduğu saatleri öğrenebilir miyim? Ayrıca gelecek hafta için randevu almak istiyorum.", "pred": []}
+{"id": "SIKAYET-006", "text": "Jeneratör test edilmediği için elektrik kesilince devreye girmedi, asansörler durdu ve yaşlı babam 4. kattan merdivenle inmek zorunda kaldı.", "pred": []}
+{"id": "SIKAYET-007", "text": "Wi-Fi'nin sürekli kopması yüzünden online toplantıma giremedim, teknik servis iki kez geldi ama düzeltemedi.", "pred": []}
+{"id": "SIKAYET-008", "text": "Havuz başında sürekli müzik açıktı, bi de sabah 8de temizlik makinesi çalıştı, uyku mu kaldı yani", "pred": []}
+{"id": "SIKAYET-009", "text": "Restoranda yarısı boş masa vardı ama sadece iki garson çalışıyordu. Siparişimiz bir saatte geldi.", "pred": []}
+{"id": "SIKAYET-010", "text": "Spa'da randevu sisteminde yaşanan hata sebebiyle masajımız iptal oldu, haber veren bile olmadı.", "pred": []}
+{"id": "SIKAYET-011", "text": "Oda temizliğinin geç yapılması ve havluların geç gelmesi yüzünden odaya ancak akşam girebildik. Kat hizmetleri hiç dönüş yapmadı.", "pred": []}
+{"id": "SIKAYET-012", "text": "Odadaki klimanın arızası yüzünden sabaha kadar uyuyamadık. Resepsiyon da odayı değiştirmedi.", "pred": []}
+{"id": "SIKAYET-013", "text": "Su kaçağı tavanı ıslattı, nem yüzünden odadaki halı koktu, biz de odayı değiştirmek zorunda kaldık.", "pred": []}
+{"id": "SIKAYET-014", "text": "Resepsiyonda tek kişi vardı, kuyruk kapıya kadar uzadı. Odaya ancak bir saat sonra girebildik.", "pred": []}
+{"id": "SIKAYET-015", "text": "Kahvaltı büfesinde üç gündür taze meyve yok, tedarikçi gelmiyormuş. Çocuklar sadece ekmek yedi.", "pred": []}
+{"id": "SIKAYET-016", "text": "yaw odada bi tane bile priz çalışmıyo, telefonu şarj edemedim. teknikciler gelcem dedi gelmedi", "pred": []}
+{"id": "SIKAYET-017", "text": "Havuz pompası sabahtan beri sessiz, su yeşile döndü. Çocuklar giremedi.", "pred": []}
+{"id": "SIKAYET-018", "text": "Satın alma geç sipariş verdiği için barda üç gündür sevdiğimiz viski bulunmuyor.", "pred": []}
+{"id": "SIKAYET-019", "text": "Bulaşık makinesi bozuk, personel de yetersiz; bu yüzden masamıza kirli çatal geldi.", "pred": []}
+{"id": "SIKAYET-020", "text": "Mutfaktaki personel eksikliği sebebiyle akşam yemeğinde yemekler soğuk geldi, bir de bekleme çok uzundu.", "pred": []}
+{"id": "SIKAYET-021", "text": "Havuzda cankurtaran sayısı az olduğu için çocuğumuz suda zorlandığında geç müdahale edildi.", "pred": []}
+{"id": "SIKAYET-022", "text": "PMS'te rezervasyonumuz yanlış girilmiş, ön büro bu yüzden bize otopark manzaralı oda verdi. HK da ekstra yatağı koymadı.", "pred": [{"text": "PMS", "label": "ORG", "start": 0, "end": 3, "score": 0.8526}, {"text": "HK", "label": "ORG", "start": 92, "end": 94, "score": 0.9715}]}
+{"id": "SIKAYET-023", "text": "Minik kızım mini clubdan ağlayarak çıktı. Orada tek bir animatör vardı, 12 çocuğa bakıyordu.", "pred": []}
+{"id": "SIKAYET-024", "text": "Asansörün bakımsızlığı nedeniyle 9. kata çıkarken mahsur kaldık, yaşlı annem çok korktu.", "pred": []}
+{"id": "SIKAYET-025", "text": "Bahçedeki sulama hortumu patladı, lobiye kadar su geldi. Teknik ekip yarım saat sonra ancak ortaya çıktı.", "pred": []}
+{"id": "SIKAYET-026", "text": "Jakuzinin klor ayarı bozuk olduğundan cildimiz kızardı, spa görevlisi de kontrol yapılmadığını söyledi.", "pred": []}
+{"id": "SIKAYET-027", "text": "Güvenlik görevlisinin kimlik kontrolü yapmaması yüzünden odamıza yetkisiz biri girmiş, valizim karışmıştı.", "pred": []}
+{"id": "SIKAYET-028", "text": "Odaya sıcak su gelmedi iki gündür, kazan dairesinde kimse yok sanırım. Duşsuz kaldık, çocuklar hasta oldu.", "pred": []}
+{"id": "SIKAYET-029", "text": "Kapasite fazlası rezervasyon ve geç çıkan misafirler yüzünden odalar yetmedi; ön büro bizi başka otele gönderdi, çocuklar ağladı.", "pred": []}
+{"id": "SIKAYET-030", "text": "Sistemde odamız temiz görünüyormuş ama içeri girince yatak dağınıktı. Resepsiyon bir şey yapamadı.", "pred": []}
+{"id": "SIKAYET-031", "text": "Kapıyı çalmadan odaya girdi görevli, tabelaya bile bakmadı. Yeni başlamış gibiydi, kimse ona prosedürü öğretmemiş.", "pred": []}
+{"id": "SIKAYET-032", "text": "Gece 2de yan odanın müziği bitmedi, güvenliği iki kez aradık. Telefona bakan yoktu.", "pred": []}
+{"id": "SIKAYET-033", "text": "Mutfaktaki fırın bozuldu, kasap geç gelince et yetişmedi, akşam büfede sadece makarna kaldı.", "pred": []}
+{"id": "SIKAYET-034", "text": "Restoranda üç kişilik rezervasyonumuz vardı ama masa hazır değildi. Kapıdaki hanım defterine bile bakmadı.", "pred": []}
+{"id": "SIKAYET-035", "text": "Kar yağışı yüzünden transfer araçları gecikti, biz de geç geldik ve akşam yemeği bittiği için aç kaldık.", "pred": []}
+{"id": "SIKAYET-036", "text": "Yanlış fiyat bilgisi verildiği için check-out'ta 300 euro ekstra ücret çıktı; Misafir İlişkileri iade sözü verdi ama yapılmadı.", "pred": []}
+{"id": "SIKAYET-037", "text": "Mini Club ekibi toplantıda olduğundan çocuk disko iptal edildi, kızım bütün gün bunu bekliyordu.", "pred": []}
+{"id": "SIKAYET-038", "text": "Mutfakta çapraz bulaşma olduğu için kızımın fıstık alerjisi tetiklendi ve gece acile gitmek zorunda kaldık.", "pred": []}
+{"id": "SIKAYET-039", "text": "Kapalı havuzun ısıtıcısı çalışmıyor galiba. Su buz gibiydi, hiç yüzemedik.", "pred": []}
+{"id": "SIKAYET-040", "text": "Çamaşırhanenin gömleğimi yakması sebebiyle bayram akşamı yemeğine gidemedim, kat görevlisi de sadece özür diledi.", "pred": []}
+{"id": "SIKAYET-041", "text": "Dönüş transferi için ön büroya uçuş saatimi iletmek istiyorum, bagaj saklama hizmeti var mı?", "pred": []}
+{"id": "SIKAYET-042", "text": "arkadaş ya bu kadar da olmaz, sabahtan beri su sesi geliyo tavandan, ses yüzünden uyuyamadım resmen", "pred": []}
+{"id": "SIKAYET-043", "text": "Bebek maması için su ısıtıcı istedik, mutfakta hiç yokmuş. Bebek geceyi aç geçirdi.", "pred": []}
+{"id": "SIKAYET-044", "text": "Su borusunun paslı olması ve bakımın ertelenmesi sonucu tuvalet taştı, odamız basıldı, valizimiz ıslandı.", "pred": []}
+{"id": "SIKAYET-045", "text": "F&B müdürüne söyledim, menüdeki kokteyl yok dedi. Stok sayımı yapılmamış, PMS'e de işlenmemiş.", "pred": []}
+{"id": "SIKAYET-046", "text": "Ön büronun yanlış oda tipi yazması nedeniyle balayında iki ayrı yataklı odaya yerleştirildik.", "pred": []}
+{"id": "SIKAYET-047", "text": "Hem personel eğitimsizliği hem de sistemin yavaşlığı nedeniyle check-in yarım saat sürdü; kuyrukta bekleyen yaşlı eşim fenalaştı.", "pred": []}
+{"id": "SIKAYET-048", "text": "Tesisiniz çok kalabalık ve gürültülüydü, tekrar gelmeyi düşünmüyorum.", "pred": []}
+{"id": "SIKAYET-049", "text": "KPI'larınız bu kadar iyiyse neden HK odamızı 3 günde bir temizliyor? Puan formunda hijyen kısmına 2 yazdım.", "pred": [{"text": "HK", "label": "ORG", "start": 34, "end": 36, "score": 0.996}]}
+{"id": "SIKAYET-050", "text": "Lobi tuvaletinde sabun bitmesi sebebiyle ellerimizi yıkayamadık; Kat Hizmetleri'ne defalarca söyledik ama sabun hâlâ yok.", "pred": []}
+{"id": "SIKAYET-051", "text": "PMS'te notlarımız görünmüyormuş, HK ve F&B ayrı ayrı aynı soruları sordu. DÖF kaydı açtırdım.", "pred": []}
+{"id": "SIKAYET-052", "text": "HK az personelle çalışıyormuş, o yüzden oda hazır olma süresi 4 saat olmuş. F&B de aynı durumda.", "pred": [{"text": "HK", "label": "ORG", "start": 0, "end": 2, "score": 0.8391}, {"text": "F", "label": "ORG", "start": 76, "end": 77, "score": 0.8706}, {"text": "B", "label": "ORG", "start": 78, "end": 79, "score": 0.5645}]}
+{"id": "SIKAYET-053", "text": "Yeni gelen personel sistemi bilmediği ve eğitim verilmediği için faturamız yanlış kesildi, düzeltme iki saat sürdü, uçağımıza yetişemedik.", "pred": []}
+{"id": "SIKAYET-054", "text": "Gece vardiyasındaki resepsiyoncu uyuyakalmıştı, zili üç kez çaldım. Sabaha kadar sıcak su için beklemek zorunda kaldım.", "pred": []}
+{"id": "SIKAYET-055", "text": "Havuz kenarındaki zemin kaygan, kayıp düşen yaşlı bir bey gördüm. Üzerinde uyarı levhası yoktu.", "pred": []}
+{"id": "SIKAYET-056", "text": "Genel memnuniyet puanım 6/10. Yemekler idare eder, oda sıradan. Özel bir şikayetim yok ama harika da değildi.", "pred": []}
+{"id": "SIKAYET-057", "text": "Teknik servisin kilidi geç tamir etmesi yüzünden gece boyunca balkon kapımız açık kaldı, kendimizi güvende hissetmedik.", "pred": []}
+{"id": "SIKAYET-058", "text": "Çatıdaki sızıntı fark edilmedi, tavan alçıpanı çöktü, üstelik güvenlik şeridi çekilmediği için lobide bir misafir yaralandı.", "pred": []}
+{"id": "SIKAYET-059", "text": "ya resepsyondaki abla çok ilgisizdi bi de odamız 2 saat gec hazırlandı, puanım 2 olcak", "pred": []}
+{"id": "SIKAYET-060", "text": "Misafir İlişkileri'nden evcil hayvan politikasını öğrenmek istiyorum.", "pred": []}
+{"id": "SIKAYET-061", "text": "Bulaşık makinesinin deterjan dozajı yanlış ayarlandığı için bardaklarda beyaz lekeler vardı, akşam yemeğinde su içemedik.", "pred": []}
+{"id": "SIKAYET-062", "text": "Kat görevlisi odamıza minibar ikmali yapmadığı için çocuklar için aldığımız süt bulunamadı, gece resepsiyona inmek zorunda kaldım.", "pred": []}
+{"id": "SIKAYET-063", "text": "Alerji için glütensiz menü istemiştim. Garson şefe sorayım dedi, sonra hiç dönmedi. Akşam karnım aç yattım.", "pred": []}
+{"id": "SIKAYET-064", "text": "Spa'da bekleme salonu buz gibi, terlik yok. Masajdan önce üşüyüp titredim.", "pred": []}
+{"id": "SIKAYET-065", "text": "Personelin güler yüzsüzlüğü sebebiyle bu otele gelmekten pişmanım; İnsan Kaynakları bu işe nasıl alıyor merak ediyorum.", "pred": [{"text": "İnsan Kaynakları", "label": "ORG", "start": 67, "end": 83, "score": 0.927}]}
+{"id": "SIKAYET-066", "text": "Odada bir sürü karınca vardı. Geçen gün arka bahçede çöp konteyneri taşıyordu. Kat görevlisi sadece sprey sıktı.", "pred": []}
+{"id": "SIKAYET-067", "text": "Barda bardaklar kirliydi, barmen çok yorgun görünüyordu. Üç barmen yerine tek kişi çalışıyormuş.", "pred": []}
+{"id": "SIKAYET-068", "text": "Bebek sandalyesi yok, garson dil bilmiyor; bu yüzden siparişimiz bir buçuk saat gecikti.", "pred": []}
+{"id": "SIKAYET-069", "text": "Yağmur nedeniyle açık büfe kapalı alana alındı ama masa sayısı yetmedi, ayakta yemek yedik.", "pred": []}
+{"id": "SIKAYET-070", "text": "Plaj havlularının yetersizliği nedeniyle sabah 7'de şezlong kapmak için yarışmak zorunda kaldık, sonunda havlusuz kaldık.", "pred": []}
+{"id": "SIKAYET-071", "text": "Elektrik panosundaki arıza yüzünden havuz pompası durdu, su bulanıklaştı, sağlık müdürlüğü uyarısıyla havuz iki gün kapandı.", "pred": []}
+{"id": "SIKAYET-072", "text": "Dil bilmeyen personel yüzünden Rusça konuşan annemiz ilaç saatini anlatamadı, doktor ancak üç saat sonra çağrıldı.", "pred": []}
+{"id": "SIKAYET-073", "text": "Tedarik gecikince taze balık gelmedi, mutfak dondurulmuş balıkla idare etti, kokusu yüzünden akşam yemeğinde yarım tabak bıraktık.", "pred": []}
+{"id": "SIKAYET-074", "text": "Blok tabelalarında hata olduğu için bavullarla yanlış bloğa gittik, görevli de yol tarif edemedi.", "pred": []}
+{"id": "SIKAYET-075", "text": "Koşu bandı üç haftadır arızalı yazıyor. Spor için geldik, tatilimiz boşa gitti.", "pred": []}
+{"id": "BAKIM-001", "text": "Sauna kontrol panosundaki termostat arızası yüzünden sauna 50 dereceyi geçmedi; Spa'da misafir şikayeti geldi.", "pred": []}
+{"id": "BAKIM-002", "text": "AHU-3 fan motoru yandı, HK çamaşır odası havalandırması durdu. TS motoru değiştirdi, DÖF açıldı.", "pred": [{"text": "HK", "label": "ORG", "start": 24, "end": 26, "score": 0.5096}]}
+{"id": "BAKIM-003", "text": "Kapı kilit sistemi batarya uyarısı verdi, değişim planlanmadı. 305'te misafir kartla giremedi, Ön Büro'ya indi.", "pred": []}
+{"id": "BAKIM-004", "text": "Yağmur olukları tıkalı olduğundan teras suyu taştı, su aşağıdaki koridora sızdı, elektrik panosu atınca masaj odaları karardı.", "pred": []}
+{"id": "BAKIM-005", "text": "Lobideki LED armatürlerin sürücüleri yandı. Ön Büro girişi akşam yarı karanlıkta kaldı.", "pred": []}
+{"id": "BAKIM-006", "text": "klima yine bozuldu valla, 507 de misafir bağırdı. filtre hiç temizlenmemiş zaten, usta geldi baktı bi kaç saatte düzeldi", "pred": []}
+{"id": "BAKIM-007", "text": "Otomatik transfer şalteri arızası sebebiyle elektrik kesintisinde jeneratör devreye girmedi. Teknik Servis şalteri değiştirdi.", "pred": []}
+{"id": "BAKIM-008", "text": "Chiller kondenser borularında kireç var, son temizlik 14 ay önce yapılmış. Öğleden sonra soğutma kapasitesi düştü, lobide sıcaklık 27'yi gördü.", "pred": []}
+{"id": "BAKIM-009", "text": "FCU su kaçağı nedeniyle 118 OOO yapıldı, PMS güncellendi. TS tamir etti.", "pred": [{"text": "FCU", "label": "ORG", "start": 0, "end": 3, "score": 0.5356}]}
+{"id": "BAKIM-010", "text": "Yedek conta stokta yoktu ve bakım planında kontrol atlandı. Sonuç olarak 220'deki FCU üç gün çalışmadı.", "pred": [{"text": "FCU", "label": "ORG", "start": 82, "end": 85, "score": 0.9135}]}
+{"id": "BAKIM-011", "text": "412 numaralı odada FCU kondens tahliye hattı tıkanması nedeniyle su kaçağı oluştu. Hat açıldı, tava temizlendi.", "pred": []}
+{"id": "BAKIM-012", "text": "Havuz pompa dairesi haftalık kontrol listesi dolduruldu. Basınç değerleri normal, kaçak yok, kimyasal stok yeterli.", "pred": []}
+{"id": "BAKIM-013", "text": "Sıcak su boyleri kireçlenme nedeniyle verimsiz çalıştı, 6. katta duşlarda su geç ısındı.", "pred": []}
+{"id": "BAKIM-014", "text": "Asansör motor sürücüsü aşırı ısındı; üstelik bakım sözleşmesi firması iki hafta geç geldi. Bu iki sebeple A Blok asansörü 5 gün hizmet vermedi.", "pred": []}
+{"id": "BAKIM-015", "text": "Havuz sirkülasyon pompasının rulman aşınması yüzünden pompa devre dışı kaldı, havuz suyu bir gün boyunca filtrelenemedi.", "pred": []}
+{"id": "BAKIM-016", "text": "Mini Club klimasının filtreleri temizlenmedi, çünkü Teknik Servis'te vardiya personeli eksikti. Toz kokusu yüzünden aileler odayı kullanmadı.", "pred": [{"text": "Mini", "label": "ORG", "start": 0, "end": 4, "score": 0.5481}, {"text": "Teknik Servis", "label": "ORG", "start": 52, "end": 65, "score": 0.9655}]}
+{"id": "BAKIM-017", "text": "Soğuk oda kapı contası yıpranması nedeniyle oda sıcaklığı 8 dereceye çıktı ve Mutfak'ta et ürünleri imha edildi.", "pred": []}
+{"id": "BAKIM-018", "text": "Chiller kondenser fanı arızalandı, kompresör yüksek basınçtan trip etti, tüm kat klimaları durdu. Öğle servisinde restoran çok sıcak kaldı.", "pred": []}
+{"id": "BAKIM-019", "text": "Havuz otomatik klor dozaj pompasının hortumu çatlak bulundu. Serbest klor 0,3 ppm'e düştü, havuz bir saat kapatıldı.", "pred": []}
+{"id": "BAKIM-020", "text": "Spa buhar odası jeneratöründe kireç birikmiş, periyodik detartraj yapılmamıştı. Buhar odası iki gün kapalı kaldı.", "pred": []}
+{"id": "BAKIM-021", "text": "Mutfak egzoz fanı kayışı kopmuş. Pişirme alanında duman birikti, yangın alarmı iki kez çaldı.", "pred": []}
+{"id": "BAKIM-022", "text": "Bulaşık makinesi durulama rezistansı yanması sebebiyle bulaşık hijyen puanı düştü. Yiyecek-İçecek ekibi geçici olarak elde yıkamaya geçti.", "pred": []}
+{"id": "BAKIM-023", "text": "Aylık periyodik bakım: 6 adet FCU filtresi temizlendi, chiller yağ seviyesi normal, jeneratör 15 dk yüksüz çalıştırıldı. Bulgu yok.", "pred": []}
+{"id": "BAKIM-024", "text": "Çamaşırhane kurutma makinesi filtresi temizlenmedi. Makine aşırı ısındı, Kat Hizmetleri'nin havlu devri aksadı.", "pred": [{"text": "Kat Hizmetleri", "label": "ORG", "start": 73, "end": 87, "score": 0.8138}]}
+{"id": "BAKIM-025", "text": "Asansör kabin kapı sensörü kirlendiği için B Blok asansörü gün içinde 3 kez kapıda takıldı.", "pred": []}
+{"id": "BAKIM-026", "text": "Bakım personeli izinde, ayrıca yedek sensör gelmedi. 3. kat yangın dedektörü arızası 4 gün açık kaldı.", "pred": []}
+{"id": "BAKIM-027", "text": "Çamaşır makinesi kapı yatağı gevşemiş, titreşim alarmı sürekli veriyordu. Havlu yıkama 6 saat geç bitti, Kat Hizmetleri sabah oda hazırlığına geç başladı.", "pred": [{"text": "Kat Hizmetleri", "label": "ORG", "start": 105, "end": 119, "score": 0.5809}]}
+{"id": "BAKIM-028", "text": "Buz makinesi su giriş filtresi tıkandığı için bar buz stoğu bitti; F&B ekibi paketli buz satın aldı.", "pred": []}
+{"id": "BAKIM-029", "text": "Su arıtma ünitesinin membran değişimi iki kez ertelendi. Mutfağa gelen suyun TDS değeri yükseldi, kahve makineleri kireçlendi.", "pred": []}
+{"id": "BAKIM-030", "text": "Hidrofor basınç şalteri arızası nedeniyle üst katlarda su basıncı düştü, 7. kat misafirleri duşta şikayetçi oldu.", "pred": []}
+{"id": "BAKIM-031", "text": "asansör yine tıkandı yav, bakım firması gec gelmiş sanırım. misafirler 4 kat merdiven çıkmış, bagajcı da cok yoruldu", "pred": []}
+{"id": "BAKIM-032", "text": "Soğuk oda 2 kompresörü sık sık devre dışı kalıyor. Kondenser peteklerinde yoğun toz var, temizlik formu üç aydır boş. Süt ürünleri +9 dereceye çıktı.", "pred": []}
+{"id": "BAKIM-033", "text": "Otopark bariyer motoru yağmurdan dolayı su aldı, giriş kapısında 20 dakika araç kuyruğu oluştu. Güvenlik manuel açtı.", "pred": []}
+{"id": "BAKIM-034", "text": "Aşırı yağış ve eski drenaj pompasının kapasite yetersizliği birlikte bodrum katının su basmasına yol açtı, depo stoklarının bir kısmı ıslandı.", "pred": []}
+{"id": "BAKIM-035", "text": "Spa FCU drenaj tıkanıklığı HK'ya kokulu havlu şikayeti getirdi; TS drenajı açtı, DÖF-31 açıldı.", "pred": []}
+{"id": "BAKIM-036", "text": "Yangın pompası pano kontaktörü arızalı olduğundan haftalık test başarısız oldu; arıza aynı gün giderildi.", "pred": []}
+{"id": "BAKIM-037", "text": "Jakuzi sirkülasyon pompası kuru çalıştırıldığından mekanik salmastra yandı ve jakuzi hizmet dışı kaldı.", "pred": []}
+{"id": "BAKIM-038", "text": "Kamera sisteminin NVR diski dolmuş, kayıt almıyordu. Otopark olayında görüntü bulunamadı; Güvenlik tutanak tutmakta zorlandı.", "pred": []}
+{"id": "BAKIM-039", "text": "KPI: AHU filtre değişimi gecikti (TS), buna bağlı HK'da oda havası hijyen puanı 82'ye geriledi. DÖF açıldı.", "pred": []}
+{"id": "BAKIM-040", "text": "Sauna ve buhar odası haftalık temizlik ve fonksiyon kontrolü Spa vardiya amiriyle yapıldı. Termostat ayarları kontrol edildi, anormallik yok.", "pred": []}
+{"id": "BAKIM-041", "text": "Kazan brülör ateşleme elektrodu aşınmıştı. Sabah 06:00'da sıcak su gelmedi, Ön Büro'ya 14 telefon düştü.", "pred": []}
+{"id": "BAKIM-042", "text": "Mutfak davlumbazı yağ filtresi temizlenmediği için Mutfak'ta koku yayıldı ve restoran salonundan şikayet alındı.", "pred": []}
+{"id": "BAKIM-043", "text": "Jeneratör aylık yüklü test çalıştırması yapıldı. Yağ ve soğutma suyu seviyeleri normal, akü voltajı 12,8 V. Bir sonraki bakım Aralık.", "pred": []}
+{"id": "BAKIM-044", "text": "Trafo sıcaklığı yükseldi, otomatik şalter açtı, tüm mutfak ekipmanları kapandı; akşam yemeği servisi 40 dakika gecikti.", "pred": []}
+{"id": "BAKIM-045", "text": "Misafir odalarındaki kapı kilit sistemi yazılım güncellemesi yüzünden 40 oda kartı geçersiz kaldı. Ön Büro yeni kart bastı.", "pred": []}
+{"id": "BAKIM-046", "text": "Havuz ısı pompası evaporatör fanı durmuş. Kapalı havuz 24 dereceye indi, Spa misafirleri havuzu kullanmadı.", "pred": []}
+{"id": "BAKIM-047", "text": "Sauna kapısının menteşesi sarkmıştı, kapı tam kapanmıyor. Isı kaybı arttı, Spa'da sauna ısınma süresi 45 dakikaya uzadı.", "pred": []}
+{"id": "BAKIM-048", "text": "Eğitimsiz yeni teknisyen valf yönünü yanlış taktı ve devreye alma kontrolü yapılmadı. Chiller soğutma suyu ters aktı, restoran klimaları saatlerce çalışmadı.", "pred": []}
+{"id": "BAKIM-049", "text": "UPS akülerinin ömrünü doldurması sebebiyle kısa kesintide PMS sunucusu kapandı ve check-in 25 dakika durdu.", "pred": []}
+{"id": "BAKIM-050", "text": "Yağ tutucu temizliği geciktiği için mutfak gider hattı tıkandı, zemin taştı; kayma riski nedeniyle Güvenlik bölgeyi kordona aldı.", "pred": []}
+{"id": "BAKIM-051", "text": "Bu ay 24 adet split klimanın filtre temizliği ve gaz basıncı kontrolü planlandığı gibi tamamlandı. Ek parça gerekmedi.", "pred": []}
+{"id": "BAKIM-052", "text": "chiller yine acayip ses yapıyodu, dün gece sonunda trip etti. soğutma suyu pompası rulmanı gitmiş herhalde, sabah klimalar bi süre calısmadı", "pred": []}
+{"id": "BAKIM-053", "text": "Spa masaj yatağı ısıtıcı kablosu kemirgen hasarı yüzünden kısa devre yaptı, masaj odası 2 gün kullanılamadı.", "pred": []}
+{"id": "BAKIM-054", "text": "Havuz filtre kumu değişimi yapılmadığından su bulanıklığı arttı ve Havuz ekibi havuzu kapattı.", "pred": []}
+{"id": "BAKIM-055", "text": "Sprinkler hattında basınç düşümü nedeniyle yıllık test ertelendi; Teknik Servis hattı yeniden basınçlandırdı.", "pred": []}
+{"id": "BAKIM-056", "text": "Sıcak su sirkülasyon pompası kuru kontak arızası sebebiyle durdu; uzak odalarda sıcak su 3 dakika geç geldi.", "pred": []}
+{"id": "BAKIM-057", "text": "Kazan dairesi baca damperi sıkıştı, yanma gazı geri tepti, CO alarmı çaldı ve Güvenlik tahliye prosedürü uyguladı.", "pred": []}
+{"id": "BAKIM-058", "text": "Wi-Fi erişim noktalarının firmware uyumsuzluğu yüzünden restoranda internet sık sık koptu.", "pred": []}
+{"id": "BAKIM-059", "text": "Satın Alma yedek parçayı geç sipariş etti, üstelik teknisyen yetersizdi; bu yüzden VRF iç ünite arızası 6 gün sürdü.", "pred": []}
+{"id": "BAKIM-060", "text": "IP kamera lensi nemlenmişti, gece görüntüsü bulanıktı. Plajdaki kayıp eşya olayı aydınlatılamadı, Güvenlik rapor yazamadı.", "pred": []}
+{"id": "BAKIM-061", "text": "Split klima drenaj eğimi hatalı monte edilmiş. 614'te tavandan damla damla su aktı, misafir odayı değiştirdi.", "pred": []}
+{"id": "BAKIM-062", "text": "Soğuk oda ve dondurucu günlük sıcaklık kayıtları alındı: +3 / -19. Mutfak şefi imzaladı, sapma yok.", "pred": []}
+{"id": "BAKIM-063", "text": "Konveksiyonel fırın fan motoru arızası nedeniyle kahvaltı büfesinde ekmek çeşitleri geç çıktı.", "pred": []}
+{"id": "BAKIM-064", "text": "Bulaşık makinesi deterjan dozaj hortumu havalandı. Bardaklar lekeli çıktı, Yiyecek-İçecek şefi tabakları yeniden yıkattı.", "pred": []}
+{"id": "BAKIM-065", "text": "Su sayacı arızalı olduğundan kaçak fark edilmedi, kaçak zemin altında büyüdü, sonunda lobi mermeri kabardı ve zemin değişimi gerekti.", "pred": []}
+{"id": "BAKIM-066", "text": "TV başlık yayın sistemi güncelleme sonrası kanal listesini kaybetti. Odalarda kanallar gelmedi, Ön Büro telefonlarla boğuştu.", "pred": []}
+{"id": "BAKIM-067", "text": "Duş bataryası kartuşları kireçli. Banyoda su ısısı dalgalandı, Misafir İlişkileri'ne üç şikayet iletildi.", "pred": []}
+{"id": "BAKIM-068", "text": "Çatıdaki solar kolektörlerin vanası kapalı unutuldu. Havuz suyu bahar aylarında ısınmadı, Havuz bölümü ek enerji harcadı.", "pred": []}
+{"id": "BAKIM-069", "text": "KPI: ort. arıza giderme süresi 3,5 saat. TS'de AHU-2 ve FCU arızaları ard arda geldi, vardiya sayısı yetersiz kaldı. DÖF için HK raporu bekleniyor.", "pred": [{"text": "DÖF", "label": "ORG", "start": 117, "end": 120, "score": 0.9693}, {"text": "HK", "label": "ORG", "start": 126, "end": 128, "score": 0.7502}]}
+{"id": "BAKIM-070", "text": "Mini Club'ta oyun alanı zemin ısıtması hem termostat hem de pompa arızalıydı; dahası periyodik kontrol yapılmamıştı. Alan 3 gün kapatıldı.", "pred": [{"text": "Mini", "label": "ORG", "start": 0, "end": 4, "score": 0.8187}, {"text": "Club", "label": "LOC", "start": 5, "end": 9, "score": 0.5929}]}
+{"id": "BAKIM-071", "text": "Kahve makinesi kireç temizliği yapılmadığı için kahvaltıda espresso kalitesi düştü ve misafir memnuniyet puanı etkilendi.", "pred": []}
+{"id": "BAKIM-072", "text": "Yemek asansörü kılavuz rayı yağsız kalmış. Asansör gıcırdayarak çalıştı, akşam servisinde sıcak yemekler soğuk ulaştı.", "pred": []}
+{"id": "BAKIM-073", "text": "Yetersiz personel nedeniyle havuz kenarı temizliği aksadı; kayganlık yüzünden bir misafir düştü, Misafir İlişkileri DÖF başlattı.", "pred": []}
+{"id": "BAKIM-074", "text": "PMS interface kopması nedeniyle F&B adisyonları odaya yansımadı; ön büro mutabakatta zorlandı. IT patch yükledi.", "pred": [{"text": "PMS", "label": "ORG", "start": 0, "end": 3, "score": 0.6105}, {"text": "IT", "label": "ORG", "start": 95, "end": 97, "score": 0.5127}]}
+{"id": "BAKIM-075", "text": "Otomatik cam kapı sensörü toz birikimi nedeniyle yanlış algıladı, lobi kapısı sürekli açık kaldı.", "pred": []}

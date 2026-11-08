@@ -1,0 +1,7 @@
+# Deney A (hazır BERTurk NER) bağımlılıkları — sürümler sabittir.
+# Python 3.11 ile test edildi. CPU yeterlidir.
+torch==2.11.0
+transformers==5.5.4
+tokenizers==0.22.2
+huggingface_hub==1.26.0
+psutil==7.2.2

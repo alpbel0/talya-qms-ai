@@ -1,0 +1,55 @@
+{
+  "hardware": {
+    "platform": "Windows-10-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+    "python": "3.11.9",
+    "torch": "2.11.0+cpu",
+    "transformers": "5.5.4",
+    "cuda_available": false,
+    "device": "cpu",
+    "torch_threads": 4,
+    "ram_gb": 39.8,
+    "logical_cpus": 8,
+    "cpu_name": "11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz"
+  },
+  "models": {
+    "akdeniz27/bert-base-turkish-cased-ner": {
+      "revision": "99995f7d2be4b3a28c74f0d36ee97f8c04ee0571",
+      "labels": [
+        "B-LOC",
+        "B-ORG",
+        "B-PER",
+        "I-LOC",
+        "I-ORG",
+        "I-PER",
+        "O"
+      ],
+      "base": "akdeniz27/bert-base-turkish-cased-ner",
+      "n_texts": 300,
+      "n_pred": 59,
+      "seconds": 15.8,
+      "sec_per_text": 0.0528,
+      "fast_tokenizer": true,
+      "aggregation_strategy": "first"
+    },
+    "savasy/bert-base-turkish-ner-cased": {
+      "revision": "7678083d645af39967e0ebe8213a6049deb6e2cc",
+      "labels": [
+        "B-LOC",
+        "B-ORG",
+        "B-PER",
+        "I-LOC",
+        "I-ORG",
+        "I-PER",
+        "O"
+      ],
+      "base": "savasy/bert-base-turkish-ner-cased",
+      "n_texts": 300,
+      "n_pred": 215,
+      "seconds": 15.7,
+      "sec_per_text": 0.0525,
+      "fast_tokenizer": true,
+      "aggregation_strategy": "first"
+    }
+  }
+}
